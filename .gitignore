@@ -10,6 +10,7 @@
 
 # IDE files
 .DS_Store
+desktop.ini
 .vscode/
 *.pyc
 __pycache__/

@@ -1,0 +1,20 @@
+# Large model files
+*.pth
+*.h5
+*.pkl
+*.ckpt
+
+# Test output files
+*.png
+*.jpg
+
+# IDE files
+.DS_Store
+.vscode/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
